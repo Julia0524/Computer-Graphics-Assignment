@@ -1,5 +1,5 @@
 Computer Graphics Assignment2: Ray Tracing
-Xinyi Yu 516030910278
+Xinyi Yu
 
 Codes for ray tracing: 
 1. main.cpp
